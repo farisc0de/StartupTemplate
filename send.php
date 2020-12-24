@@ -2,11 +2,6 @@
 include_once './config/config.php';
 include_once './vendor/autoload.php';
 
-$config = [
-  'admin_email' => 'farisksa79@gmail.com',
-  'admin_name' => 'FarisCode'
-];
-
 $tpl = new Framework\Template('template');
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -27,8 +22,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "اﻟﺮﺟﺎء اﻟﺘﺄﻛﺪ ﻣﻦ اﻟﺒﺮﻳﺪ اﻷﻟﻜﺘﺮﻭﻧﻲ";
   } else {
     $mailer->sendMessage([
-      'from_email' => $config['admin_email'],
-      'from_name' => $config['admin_name'],
       'to_email' => $email,
       'message_subject' => $subject,
       'message_body' => $tpl->loadTemplate('email', [
