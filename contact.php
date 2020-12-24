@@ -1,15 +1,16 @@
+<?php include_once './config/config.php'; ?>
 <!DOCTYPE html>
 <html>
 
 <head>
-  <title>EnterpriseCo - Contact Us</title>
+  <title><?= TITLE ?> - Contact Us</title>
   <?php include "tags.php" ?>
 </head>
 
 <body>
   <nav class="navbar navbar-expand-md navbar-dark bg-primary hidden-lg-up">
     <div class="container">
-      <a class="navbar-brand" href="#">EnterpriseCo</a>
+      <a class="navbar-brand" href="#"><?= TITLE ?></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
