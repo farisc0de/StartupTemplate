@@ -211,7 +211,7 @@
       <!-- Team item -->
       <div class="col-xl-3 col-sm-6 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4 drawb">
-          <img src="src/img/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
+          <img src="assets/img/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
           <h5 class="mb-0">ﻣﺎﻧﻮﻳﻼ ﻧﻴﻔﻮﺭﻳﺴﻜﻲ</h5>
           <span class="small text-uppercase text-muted">اﻟﺮﺋﻴﺲ اﻟﺘﻨﻔﻴﺬﻱ - ﻣﺆﺳﺲ</span>
           <ul class="social mb-0 list-inline mt-3">
@@ -236,7 +236,7 @@
       <!-- Team item -->
       <div class="col-xl-3 col-sm-6 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4 drawb">
-          <img src="src/img/teacher-2.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
+          <img src="assets/img/teacher-2.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
           <h5 class="mb-0">ﺻﻤﻮﺋﻴﻞ ﻫﺎﺭﺩﻱ</h5>
           <span class="small text-uppercase text-muted">ﺷﺮﻳﻚ ﻣﺆﺳﺲ</span>
           <ul class="social mb-0 list-inline mt-3">
@@ -261,7 +261,7 @@
       <!-- Team item -->
       <div class="col-xl-3 col-sm-6 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4 drawb">
-          <img src="src/img/teacher-1.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
+          <img src="assets/img/teacher-1.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
           <h5 class="mb-0">ﺗﻮﻡ ﺳﺎﻧﺪﺭﻻﻧﺪ</h5>
           <span class="small text-uppercase text-muted">ﻣﺪﻳﺮ اﻟﻤﻮاﺭﺩ اﻟﺒﺸﺮﻳﺔ</span>
           <ul class="social mb-0 list-inline mt-3">
@@ -286,7 +286,7 @@
       <!-- Team item -->
       <div class="col-xl-3 col-sm-6 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4 drawb">
-          <img src="src/img/teacher-7.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
+          <img src="assets/img/teacher-7.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
           <h5 class="mb-0">ﺟﻮﻥ ﺗﺎﺭﻟﻲ</h5>
           <span class="small text-uppercase text-muted">ﻗﺴﻢ اﻟﺪﻋﻢ</span>
           <ul class="social mb-0 list-inline mt-3">
@@ -325,7 +325,7 @@
             <!-- Wrapper for carousel items -->
             <div class="carousel-inner">
               <div class="item carousel-item active">
-                <div class="img-box"><img src="src/img/1.jpg" alt="" /></div>
+                <div class="img-box"><img src="assets/img/1.jpg" alt="" /></div>
                 <p class="testimonial">
                   ﻟﻮﺭﻳﻢ اﻳﺒﺴﻮﻡ ﺩﻭﻻﺭ ﺳﻴﺖ ﺃﻣﻴﺖ ,ﻛﻮﻧﺴﻴﻜﺘﻴﺘﻮﺭ ﺃﺩاﻳﺒﺎ ﻳﺴﻜﻴﻨﺞ
                   ﺃﻟﻴﺎﻳﺖ,ﺳﻴﺖ ﺩﻭ ﺃﻳﻮﺳﻤﻮﺩ ﺗﻴﻤﺒﻮﺭ ﺃﻧﻜﺎﻳﺪﻳﺪﻳﻮﻧﺘﻴﻮﺕ ﻻﺑﻮﺭﻱ اﺕ ﺩﻭﻻﺭ
@@ -357,7 +357,7 @@
               </div>
 
               <div class="item carousel-item">
-                <div class="img-box"><img src="src/img/2.jpg" alt="" /></div>
+                <div class="img-box"><img src="assets/img/2.jpg" alt="" /></div>
                 <p class="testimonial">
                   ﻟﻮﺭﻳﻢ اﻳﺒﺴﻮﻡ ﺩﻭﻻﺭ ﺳﻴﺖ ﺃﻣﻴﺖ ,ﻛﻮﻧﺴﻴﻜﺘﻴﺘﻮﺭ ﺃﺩاﻳﺒﺎ ﻳﺴﻜﻴﻨﺞ
                   ﺃﻟﻴﺎﻳﺖ,ﺳﻴﺖ ﺩﻭ ﺃﻳﻮﺳﻤﻮﺩ ﺗﻴﻤﺒﻮﺭ ﺃﻧﻜﺎﻳﺪﻳﺪﻳﻮﻧﺘﻴﻮﺕ ﻻﺑﻮﺭﻱ اﺕ ﺩﻭﻻﺭ
@@ -389,7 +389,7 @@
               </div>
 
               <div class="item carousel-item">
-                <div class="img-box"><img src="src/img/3.jpg" alt="" /></div>
+                <div class="img-box"><img src="assets/img/3.jpg" alt="" /></div>
                 <p class="testimonial">
                   ﻟﻮﺭﻳﻢ اﻳﺒﺴﻮﻡ ﺩﻭﻻﺭ ﺳﻴﺖ ﺃﻣﻴﺖ ,ﻛﻮﻧﺴﻴﻜﺘﻴﺘﻮﺭ ﺃﺩاﻳﺒﺎ ﻳﺴﻜﻴﻨﺞ
                   ﺃﻟﻴﺎﻳﺖ,ﺳﻴﺖ ﺩﻭ ﺃﻳﻮﺳﻤﻮﺩ ﺗﻴﻤﺒﻮﺭ ﺃﻧﻜﺎﻳﺪﻳﺪﻳﻮﻧﺘﻴﻮﺕ ﻻﺑﻮﺭﻱ اﺕ ﺩﻭﻻﺭ
